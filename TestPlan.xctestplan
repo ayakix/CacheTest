@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "DA27439B-C834-444A-9A75-859D5BC832A7",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:CacheTest.xcodeproj",
+        "identifier" : "A8012FB02CCA758300C3889D",
+        "name" : "CacheTestTests"
+      }
+    }
+  ],
+  "version" : 1
+}
