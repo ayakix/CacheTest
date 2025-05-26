@@ -8,7 +8,6 @@
 import Testing
 
 struct CacheTestTests {
-
     @Test func example() async throws {
       #expect(1 == 1)
     }
